@@ -1,0 +1,65 @@
+{
+  "jobs": [
+    {
+      "id": "job-1",
+      "title": "Frontend Developer",
+      "company": "TechNova Solutions",
+      "location": "Nagpur",
+      "salary": "3 - 5 LPA",
+      "type": "Full Time",
+      "skills": "HTML, CSS, JavaScript, React",
+      "description": "Build responsive web applications."
+    },
+    {
+      "id": "job-2",
+      "title": "Backend Developer",
+      "company": "CodeCraft Technologies",
+      "location": "Pune",
+      "salary": "4 - 7 LPA",
+      "type": "Full Time",
+      "skills": "Node.js, Express, MongoDB, JavaScript",
+      "description": "Develop APIs and backend systems."
+    },
+    {
+      "id": "job-3",
+      "title": "Python Developer",
+      "company": "DataSphere",
+      "location": "Mumbai",
+      "salary": "4 - 6 LPA",
+      "type": "Full Time",
+      "skills": "Python, Django, SQL, Git",
+      "description": "Build Python applications."
+    },
+    {
+      "id": "job-4",
+      "title": "UI UX Designer",
+      "company": "PixelStudio",
+      "location": "Bengaluru",
+      "salary": "3 - 5 LPA",
+      "type": "Remote",
+      "skills": "Figma, UI Design, UX Design, CSS",
+      "description": "Design user-friendly interfaces."
+    },
+    {
+      "id": "job-5",
+      "title": "React Developer Intern",
+      "company": "NextGen Digital",
+      "location": "Nagpur",
+      "salary": "15000/month",
+      "type": "Internship",
+      "skills": "HTML, CSS, JavaScript, React",
+      "description": "Assist in React development."
+    },
+    {
+      "id": "job-6",
+      "title": "Data Analyst",
+      "company": "Insight Analytics",
+      "location": "Hyderabad",
+      "salary": "4 - 6 LPA",
+      "type": "Full Time",
+      "skills": "Python, SQL, Excel, Power BI",
+      "description": "Analyze data and create reports."
+    }
+  ],
+  "applications": []
+}
